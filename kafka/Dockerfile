@@ -2,7 +2,7 @@ FROM rhel:7.2
 
 ENV KAFKA_USER=zookeeper \
     JAVA_HOME=/usr/lib/jvm/jre-1.8.0-openjdk \
-    KAFKA_VERSION=0.10.1.2 \
+    KAFKA_VERSION=0.10.2.1 \
     SCALA_VERSION=2.10 \
     KAFKA_HOME=/opt/kafka
 
